@@ -1,0 +1,6 @@
+[submodule "astro_code"]
+	path = astro_code
+	url = git@github.com:araguilar1/astro_code.git
+[submodule "BCR4BP_Tools"]
+	path = BCR4BP_Tools
+	url = git@github.com:araguilar1/BCR4BP_Tools.git
